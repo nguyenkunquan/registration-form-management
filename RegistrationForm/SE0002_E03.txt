@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Information Student:
+|No   |Id        |Name                |Major   |Email                 |         Phone|       Passport|        Address|Email of parents      |  Phone of the parents|
+|2    |SE0002    |Binh Gold           |SB      |binhgold@fpt.edu.vn   |    0123456788|           VN02|     Binh Duong|parentsbinh@gmail.com |            0123456788|
+
+Information of the abroad program:
+|No   |Id    |Name            |Time      |   From Registration Date|    End Registration Date|   Days|Location            |      Cost|             Content|
+|3    |E03   |Chuong trinh 3  |March     |                 1/3/2023|                30/3/2023|     30|Multimedia U        |    3000.0|             eo3.doc|
+
+Information of the registration: 
+registration date: 1/3/2023
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------

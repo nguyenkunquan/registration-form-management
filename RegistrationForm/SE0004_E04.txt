@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Information Student:
+|No   |Id        |Name                |Major   |Email                 |         Phone|       Passport|        Address|Email of parents      |  Phone of the parents|
+|4    |SE0004    |Dung Tran           |MC      |dungtran@fpt.edu.vn   |    0123456786|           VN04|       Vung Tau|parentsdung@gmail.com |            0123456786|
+
+Information of the abroad program:
+|No   |Id    |Name            |Time      |   From Registration Date|    End Registration Date|   Days|Location            |      Cost|             Content|
+|4    |E04   |Chuong trinh 4  |May       |                 1/5/2023|                30/5/2023|     30|UOW Malaysia KDU P  |    4000.0|             e04.doc|
+
+Information of the registration: 
+registration date: 1/5/2023
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------

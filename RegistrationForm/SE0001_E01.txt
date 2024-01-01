@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Information Student:
+|No   |Id        |Name                |Major   |Email                 |         Phone|       Passport|        Address|Email of parents      |  Phone of the parents|
+|1    |SE0001    |An Nguyen           |SE      |annguyen@fpt.edu.vn   |    0123456789|           VN01|    Ho Chi Minh|parentsan@gmail.com   |            0123456789|
+
+Information of the abroad program:
+|No   |Id    |Name            |Time      |   From Registration Date|    End Registration Date|   Days|Location            |      Cost|             Content|
+|1    |E01   |Chuong trinh 1  |January   |                 1/1/2023|                30/1/2023|     30|Help University     |    1000.0|             eo1.doc|
+
+Information of the registration: 
+registration date: 1/1/2023
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
