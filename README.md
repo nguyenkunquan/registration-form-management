@@ -1,5 +1,5 @@
 # Welcome to my second Repository - Registration Form Management project 
-![Registration Form](https://img.freepik.com/premium-vector/form-registration-concept-illustration_598748-257.jpg "Github logo") 
+![Registration Form](https://img.freepik.com/premium-vector/form-registration-concept-illustration_598748-257.jpg "Registration Form") 
 
 ## You will find in this repo:
 
